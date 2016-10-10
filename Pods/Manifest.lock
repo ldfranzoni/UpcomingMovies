@@ -22,17 +22,22 @@ PODS:
   - FTIndicator/FTNotificationIndicator (1.1.5)
   - FTIndicator/FTProgressIndicator (1.1.5)
   - FTIndicator/FTToastIndicator (1.1.5)
+  - Mantle (2.0.7):
+    - Mantle/extobjc (= 2.0.7)
+  - Mantle/extobjc (2.0.7)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.0)
   - DZNEmptyDataSet
   - FTIndicator
+  - Mantle
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
   FTIndicator: 8b9885b84340a19029ad13672add3bb8183feba8
+  Mantle: bc40bb061d8c2c6fb48d5083e04d928c3b7f73d9
 
-PODFILE CHECKSUM: f63aec21d5e980a96ff0bca9a50e932617fd891e
+PODFILE CHECKSUM: 8a6a1c64b26865439f902b1907d99ac036b1c52c
 
 COCOAPODS: 1.0.1

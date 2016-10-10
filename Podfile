@@ -5,4 +5,5 @@ target 'UpcomingMovies' do
 pod 'AFNetworking', '~> 3.0'
 pod 'FTIndicator'
 pod 'DZNEmptyDataSet'
+pod 'Mantle'
 end
